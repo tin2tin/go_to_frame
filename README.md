@@ -1,4 +1,4 @@
-# Go To FRame Pop-Up for Blender Sequencer
+# Go To Frame Pop-Up for Blender Sequencer
 
 ## Location
 Sequencer > View > Navigation > Go to Frame
